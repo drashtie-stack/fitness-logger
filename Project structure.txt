@@ -1,0 +1,10 @@
+FitnessLogger/
+│
+├── User.java
+├── Workout.java
+├── Cardio.java
+├── StrengthTraining.java
+├── FileManager.java
+├── Record.java
+├── InvalidDataException.java
+└── MainApp.java
